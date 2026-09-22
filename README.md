@@ -1,17 +1,22 @@
-<h1 align="center">Hi, I'm Rohit Ghising 👋</h1>
-<h3 align="center">MERN Stack Developer | Frontend-Focused Web Developer</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-username/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://your-portfolio-link.example.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
+<img src="https://github.com/Rohit-Ghising.png" width="140" height="140" style="border-radius:50%;" alt="Rohit Ghising"/>
+
+# Rohit Ghising
+
+### MERN Stack Developer | Frontend-Focused Web Developer
+
+<a href="https://www.linkedin.com/in/your-linkedin-username/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:your.email@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://your-portfolio-link.example.com">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+
+</div>
 
 ---
 
