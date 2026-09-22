@@ -1,255 +1,35 @@
-<div align="center">
+![Shadir's GitHub Banner](https://media.licdn.com/dms/image/v2/D5616AQGoPayt-ule0g/profile-displaybackgroundimage-shrink_350_1400/B56ZV0Oo9yGUAY-/0/1741411751069?e=1775088000&v=beta&t=VFoN-LZHzm1GYcv240Oomy2f5TzjAFEqh6F5f9Md_fQ)
+<h1 align="center">Hi 👋, I'm Muhammedh Shadir</h1>
+<h3 align="center">Passionate full stack developer with expertise in front-end technologies like HTML, CSS, and JavaScript, and back-end technologies like Node.js and MongoDB. Always eager to learn and take on new challenges in the tech world.</h3>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammedh-shadir&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedh-shadir" /> </p>
 
-<img src="https://github.com/Rohit-Ghising.png?size=180" width="150" height="150" alt="Rohit Ghising" style="border-radius: 50%; border: 4px solid #0e75b6;"/>
+<p align="left"> <a href="https://twitter.com/shadirmuhammedh" target="blank"><img src="https://img.shields.io/twitter/follow/shadirmuhammedh?logo=twitter&style=for-the-badge" alt="shadirmuhammedh" /></a> </p>
 
-# Rohit Ghising
+- 🌱 I’m currently learning **WordPress**
 
-### MERN Stack Developer • Frontend-Focused Developer
+- 👨‍💻 All of my projects are available at [muhammedh-shadir](muhammedh-shadir)
 
-<p>
-  <a href="https://github.com/Rohit-Ghising">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-username/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+- 💬 Ask me about **MERN stack and related technologies**
+
+- 📫 How to reach me **muhammedhshadir@gmail.com**
+
+- ⚡ Fun fact **Football fanatic, Madridista**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/shadirmuhammedh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shadirmuhammedh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muhammedhshadir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammedhshadir/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/21383227/muhammedh-shadir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21383227/muhammedh-shadir" height="30" width="40" /></a>
+<a href="https://web.facebook.com/muhammedh.shadir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/muhammedh.shadir/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/muhammedhshadir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/muhammedhshadir/" height="30" width="40" /></a>
 </p>
 
-<p>
-  Building modern web applications with JavaScript, TypeScript and the MERN ecosystem.
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
 
-<img src="https://komarev.com/ghpvc/?username=Rohit-Ghising&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views"/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammedh-shadir&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="muhammedh-shadir" /></p>
 
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammedh-shadir&show_icons=true&locale=en&theme=tokyonight" alt="muhammedh-shadir" /></p>
 
----
-
-## 👋 About Me
-
-I'm a **MERN Stack Developer** with a strong focus on frontend development and modern web technologies.
-
-I enjoy building responsive, maintainable interfaces and connecting them with reliable backend services. I'm also expanding my knowledge of cloud infrastructure and DevOps practices.
-
-* 🎓 Bachelor of Computer Science (Honours)
-* 💻 Focused on frontend and full-stack web development
-* ⚛️ React, Next.js, TypeScript and JavaScript
-* 🔧 Node.js, Express.js and REST APIs
-* 🎨 Tailwind CSS and responsive UI development
-* ☁️ Learning AWS, Docker, Kubernetes and CI/CD
-* 🚀 Interested in junior frontend, MERN and software development roles
-
----
-
-## 🛠️ Technologies
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux" alt="Frontend technologies"/>
-</p>
-
-### Backend & Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres" alt="Backend and database technologies"/>
-</p>
-
-### Tools & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,docker,aws,linux,githubactions,jenkins,kubernetes,terraform" alt="Tools and DevOps technologies"/>
-</p>
-
----
-
-## 🚀 What I Build
-
-<table>
-<tr>
-<td width="50%">
-
-### Frontend Development
-
-* Responsive web interfaces
-* React & Next.js applications
-* Reusable components
-* TypeScript development
-* API integration
-* Modern UI development
-
-</td>
-<td width="50%">
-
-### Full-Stack Development
-
-* Node.js & Express applications
-* REST API development
-* Database integration
-* Authentication workflows
-* Backend–frontend integration
-* Application deployment
-
-</td>
-</tr>
-</table>
-
----
-
-## 🌱 Currently Learning
-
-<div align="center">
-
-|       ☁️ AWS       |     🐳 Docker    | ☸️ Kubernetes |
-| :----------------: | :--------------: | :-----------: |
-| Cloud Fundamentals | Containerization | Orchestration |
-
-|         ⚙️ CI/CD        |      🏗️ Terraform     |     🚀 Next.js    |
-| :---------------------: | :--------------------: | :---------------: |
-| Automation & Deployment | Infrastructure as Code | Advanced Patterns |
-
-</div>
-
----
-
-## 📌 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎓 Academic ERP
-
-Academic management platform designed to support academic operations through a modern web interface.
-
-**Stack**
-
-`Next.js` `TypeScript`
-`Tailwind CSS` `Node.js` `Express.js`
-
-**[View Repository →](https://github.com/Rohit-Ghising/academic-erp)**
-
-</td>
-
-<td width="50%">
-
-### 💼 Job Application Tracker
-
-Web application for organizing job applications, tracking application status and managing related information.
-
-**Stack**
-
-`React` `TypeScript`
-`Express.js` `PostgreSQL`
-
-**[View GitHub →](https://github.com/Rohit-Ghising)**
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🛒 E-Commerce Application
-
-Full-stack e-commerce application focused on product browsing, user interaction and responsive frontend experiences.
-
-**Stack**
-
-`React` `Node.js`
-`Express.js` `MongoDB`
-
-**[View GitHub →](https://github.com/Rohit-Ghising)**
-
-</td>
-
-<td width="50%">
-
-### 🔗 More Projects
-
-Explore my repositories to see more of my experiments, learning projects and development work.
-
-**[View All Repositories →](https://github.com/Rohit-Ghising?tab=repositories)**
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rohit-Ghising&show_icons=true&hide_border=true&rank_icon=github&theme=default" alt="Rohit's GitHub statistics"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-Ghising&layout=compact&hide_border=true&theme=default" alt="Top languages"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Rohit-Ghising&hide_border=true&theme=default" alt="GitHub streak"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohit-Ghising&bg_color=ffffff&color=333333&line=0e75b6&point=0e75b6&area=true&hide_border=true" alt="Contribution activity"/>
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-```text
-Frontend Development
-        ↓
-React / Next.js / TypeScript
-        ↓
-Full-Stack Applications
-        ↓
-AWS / Docker / Kubernetes
-        ↓
-DevOps & Cloud Deployment
-```
-
----
-
-## 🤝 Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/your-linkedin-username/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:your.email@example.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://your-portfolio-link.example.com">
-<img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### Build • Learn • Improve
-
-⭐ Explore my repositories and follow along with my development journey.
-
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedh-shadir&theme=tokyonight" alt="muhammedh-shadir" /></p>
