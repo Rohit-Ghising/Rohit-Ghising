@@ -1,35 +1,195 @@
-![Shadir's GitHub Banner](https://media.licdn.com/dms/image/v2/D5616AQGoPayt-ule0g/profile-displaybackgroundimage-shrink_350_1400/B56ZV0Oo9yGUAY-/0/1741411751069?e=1775088000&v=beta&t=VFoN-LZHzm1GYcv240Oomy2f5TzjAFEqh6F5f9Md_fQ)
-<h1 align="center">Hi 👋, I'm Muhammedh Shadir</h1>
-<h3 align="center">Passionate full stack developer with expertise in front-end technologies like HTML, CSS, and JavaScript, and back-end technologies like Node.js and MongoDB. Always eager to learn and take on new challenges in the tech world.</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammedh-shadir&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedh-shadir" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://twitter.com/shadirmuhammedh" target="blank"><img src="https://img.shields.io/twitter/follow/shadirmuhammedh?logo=twitter&style=for-the-badge" alt="shadirmuhammedh" /></a> </p>
+# Hi, I'm Rohit Ghising 👋
 
-- 🌱 I’m currently learning **WordPress**
+### Software Engineer | Full-Stack Web Developer
 
-- 👨‍💻 All of my projects are available at [muhammedh-shadir](muhammedh-shadir)
-
-- 💬 Ask me about **MERN stack and related technologies**
-
-- 📫 How to reach me **muhammedhshadir@gmail.com**
-
-- ⚡ Fun fact **Football fanatic, Madridista**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/shadirmuhammedh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shadirmuhammedh" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/muhammedhshadir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammedhshadir/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/21383227/muhammedh-shadir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21383227/muhammedh-shadir" height="30" width="40" /></a>
-<a href="https://web.facebook.com/muhammedh.shadir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/muhammedh.shadir/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/muhammedhshadir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/muhammedhshadir/" height="30" width="40" /></a>
+<p>
+  <a href="https://github.com/Rohit-Ghising">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammedh-shadir&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="muhammedh-shadir" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammedh-shadir&show_icons=true&locale=en&theme=tokyonight" alt="muhammedh-shadir" /></p>
+## 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedh-shadir&theme=tokyonight" alt="muhammedh-shadir" /></p>
+I'm a **Software Engineer** focused on building modern, responsive, and maintainable web applications.
+
+I enjoy turning ideas into practical software using modern web technologies, with a strong interest in frontend development and full-stack JavaScript applications.
+
+* 💻 Software Engineer focused on web application development
+* ⚛️ Experienced with React.js and Next.js
+* 🟦 Working with JavaScript and TypeScript
+* 🌐 Building backend services with Node.js and Express.js
+* 🗄️ Experience with MongoDB, PostgreSQL, and MySQL
+* 🎨 Interested in responsive UI and reusable components
+* 🔌 Experience working with REST APIs
+* 🔧 Comfortable with Git, GitHub, and Postman
+* ☁️ Exploring AWS, Docker, CI/CD, and DevOps
+* 🤝 Comfortable working in collaborative development environments
+* 📚 Continuously learning and improving my software engineering skills
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
+
+### Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql" />
+</p>
+
+### Development & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,docker,aws,jenkins,terraform,kubernetes" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🎓 Academic ERP
+
+A web-based academic management system designed to support educational and administrative workflows.
+
+**Technologies:** Next.js · TypeScript · Tailwind CSS · REST API
+
+🔗 [View Repository](https://github.com/Rohit-Ghising/academic-erp)
+
+---
+
+### 🛒 TechCart
+
+An e-commerce web application focused on providing a responsive and user-friendly online shopping experience.
+
+**Technologies:** React · Node.js · Express · MongoDB
+
+🔗 [View My Projects](https://github.com/Rohit-Ghising)
+
+---
+
+## 💼 Experience
+
+### MERN Stack Development Intern
+
+**Mindrisers Technology**
+
+* Developed responsive web interfaces using modern JavaScript technologies
+* Built reusable and maintainable frontend components
+* Integrated frontend applications with REST APIs
+* Worked with React and Next.js based applications
+* Collaborated with backend developers and QA team members
+* Used Git and GitHub for version control and collaboration
+* Participated in debugging and resolving application issues
+* Gained experience with real-world software development workflows
+
+---
+
+## 📚 Education
+
+### Bachelor of Computer Science (Honours)
+
+**Texas College of Management & IT**
+
+Affiliated with **Lincoln University College, Malaysia**
+
+---
+
+## 🎯 Current Focus
+
+I'm currently focusing on strengthening my skills in:
+
+* Modern React & Next.js development
+* TypeScript
+* Full-stack web application development
+* Backend architecture and REST APIs
+* Database design
+* Docker and CI/CD
+* AWS Cloud
+* Kubernetes and DevOps fundamentals
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Rohit-Ghising&show_icons=true&hide_border=true&count_private=true" height="170" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-Ghising&layout=compact&hide_border=true" height="170" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohit-Ghising&theme=github-compact&hide_border=true" />
+
+</div>
+
+---
+
+## 🧩 What I Work With
+
+| Area                | Technologies                                         |
+| ------------------- | ---------------------------------------------------- |
+| **Frontend**        | React, Next.js, TypeScript, JavaScript, Tailwind CSS |
+| **Backend**         | Node.js, Express.js                                  |
+| **Databases**       | MongoDB, PostgreSQL, MySQL                           |
+| **APIs**            | REST APIs, Postman                                   |
+| **Version Control** | Git, GitHub                                          |
+| **Cloud**           | AWS                                                  |
+| **DevOps**          | Docker, Jenkins, Terraform, Kubernetes               |
+| **CMS**             | WordPress, WooCommerce                               |
+
+---
+
+## 🌱 Currently Learning
+
+```text
+React & Next.js       ███████████████████░   90%
+TypeScript            █████████████████░░░   80%
+MERN Stack             ██████████████████░░   85%
+Backend Development   ███████████████░░░░░   70%
+AWS & Cloud           █████████████░░░░░░░   65%
+DevOps                ████████████░░░░░░░░   60%
+```
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in **software engineering opportunities, frontend development, full-stack web development, internships, and collaborative software projects.**
+
+<div align="center">
+
+### Thanks for visiting my profile! 👋
+
+⭐ Feel free to explore my repositories and connect with me.
+
+</div>
