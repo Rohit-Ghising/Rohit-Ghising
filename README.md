@@ -164,7 +164,7 @@ I'm currently focusing on strengthening my skills in:
 | **APIs**            | REST APIs, Postman                                   |
 | **Version Control** | Git, GitHub                                          |
 | **Cloud**           | AWS                                                  |
-| **DevOps**          | Docker, Jenkins, Terraform, Kubernetes               |
+| **DevOps**          | Docker, Jenkins, Terraform, Kubernetes,Ansible              |
 | **CMS**             | WordPress, WooCommerce                               |
 
 ---
